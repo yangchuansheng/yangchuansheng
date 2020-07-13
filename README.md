@@ -1,16 +1,35 @@
-### Hi there 👋
+🐳 Currently working on [IBM](https://www.ibm.com/) and associated projects. Read [my blog](https://fuckcloudnative.io/) or follow my WeChat public account：
 
-<!--
-**yangchuansheng/yangchuansheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://hugo-picture.oss-cn-beijing.aliyuncs.com/2020-04-20-20200405205151.webp)
 
-Here are some ideas to get you started:
+<table><tr><td valign="top">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My project
+<!-- project starts -->
+* [一条命令部署 k8s 高可用集群](https://github.com/fanux/sealos)
+* [Kubernetes 知识图谱](https://github.com/yangchuansheng/k8s-knowledge)
+* [Linux 和 MacOS 设备智能分流方案](https://github.com/yangchuansheng/love-gfw)
+<!-- project ends -->
+More on [sealyun.com](https://sealyun.com/)
+</td><td valign="top">
+
+### My blog
+<!-- blog starts -->
+* [kubectl 创建 Pod 背后到底发生了什么？](https://fuckcloudnative.io/posts/what-happens-when-k8s/)
+* [Docker 镜像制作系列](https://fuckcloudnative.io/series/docker-%E9%95%9C%E5%83%8F%E5%88%B6%E4%BD%9C%E7%B3%BB%E5%88%97/)
+* [Linux Cgroup 入门系列](https://fuckcloudnative.io/series/linux-cgroup-%E5%85%A5%E9%97%A8%E7%B3%BB%E5%88%97/)
+* [Linux Capabilities 入门系列](http://simonwillison.net/2020/Jun/26/weeknotes-plugins-sqlite-generate/)
+* [A cookiecutter template for writing Datasette plugins](https://fuckcloudnative.io/series/linux-capabilities-%E5%85%A5%E9%97%A8%E7%B3%BB%E5%88%97/)
+<!-- blog ends -->
+More on [fuckcloudnative.io](https://fuckcloudnative.io/)
+</td><td valign="top">
+
+### My ebook
+<!-- ebook starts -->
+* [Envoy 中文指南 - 从入门到实践进阶手册](https://github.com/yangchuansheng/envoy-handbook)
+* [Prometheus 中文文档](https://fuckcloudnative.io/prometheus/)
+* 数据中心的 BGP...即将上线
+<!-- ebook ends -->
+</td></tr></table>
+
+👉 [fuckcloudnative.io](https://fuckcloudnative.io/)
