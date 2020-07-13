@@ -25,7 +25,6 @@ More on [sealyun.com](https://sealyun.com/)
 * [Docker 镜像制作系列](https://fuckcloudnative.io/series/docker-%E9%95%9C%E5%83%8F%E5%88%B6%E4%BD%9C%E7%B3%BB%E5%88%97/)
 * [Linux Cgroup 入门系列](https://fuckcloudnative.io/series/linux-cgroup-%E5%85%A5%E9%97%A8%E7%B3%BB%E5%88%97/)
 * [Linux Capabilities 入门系列](http://simonwillison.net/2020/Jun/26/weeknotes-plugins-sqlite-generate/)
-* [A cookiecutter template for writing Datasette plugins](https://fuckcloudnative.io/series/linux-capabilities-%E5%85%A5%E9%97%A8%E7%B3%BB%E5%88%97/)
 <!-- blog ends -->
 More on [fuckcloudnative.io](https://fuckcloudnative.io/)
 </td><td valign="top">
