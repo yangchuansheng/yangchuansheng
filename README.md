@@ -1,6 +1,12 @@
 🐳 Currently working on [IBM](https://www.ibm.com/) and associated projects. Read [my blog](https://fuckcloudnative.io/) or follow my WeChat public account：
 
-![](https://hugo-picture.oss-cn-beijing.aliyuncs.com/2020-04-20-20200405205151.webp)
+<div align="center">
+  <p>
+    
+  ![](https://hugo-picture.oss-cn-beijing.aliyuncs.com/2020-04-20-20200405205151.webp)
+
+  </p>
+</div>
 
 <table><tr><td valign="top">
 
