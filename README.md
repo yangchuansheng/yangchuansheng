@@ -3,7 +3,7 @@
 <div align="center">
   <p>
     
-  ![](https://hugo-picture.oss-cn-beijing.aliyuncs.com/2020-04-20-20200405205151.webp)
+  <img src="https://hugo-picture.oss-cn-beijing.aliyuncs.com/2020-04-20-20200405205151.webp" width="300" alt="云原生实验室" />
 
   </p>
 </div>
