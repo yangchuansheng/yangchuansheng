@@ -1,6 +1,6 @@
-<img align="right" alt="GIF" src="/assets/kubernetes-testing.gif" width="300px" />
+<img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/yangchuansheng/yangchuansheng/assets/kubernetes-testing.gif" width="300px" />
 
-Currently working on [IBM](https://www.ibm.com/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and cloud-native <img src="https://github.com/yangchuansheng/yangchuansheng/blob/master/assets/gopher.gif" width="26px"> associated projects. Read [my blog](https://fuckcloudnative.io/) or follow my WeChat public account：
+Currently working on [IBM](https://www.ibm.com/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and cloud-native <img src="https://cdn.jsdelivr.net/gh/yangchuansheng/yangchuansheng/assets/gopher.gif" width="26px"> associated projects. Read [my blog](https://fuckcloudnative.io/) or follow my WeChat public account：
 
 <div align="center">
   <p>
