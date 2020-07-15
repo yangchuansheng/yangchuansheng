@@ -8,6 +8,11 @@
   </p>
 </div>
 
+or you can follow my Twitter and Github:
+
+[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
+[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+
 <table><tr><td valign="top">
 
 ### My project
