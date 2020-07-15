@@ -1,4 +1,4 @@
-🐳 Currently working on [IBM](https://www.ibm.com/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and cloud-native <img src="https://i.imgur.com/DNWjAse.gif" width="30px"> associated projects. Read [my blog](https://fuckcloudnative.io/) or follow my WeChat public account：
+🐳 Currently working on [IBM](https://www.ibm.com/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and cloud-native <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--_i4QVzEO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1eaxlpr98hv1bedjgyhg.gif" width="30px"> associated projects. Read [my blog](https://fuckcloudnative.io/) or follow my WeChat public account：
 
 <div align="center">
   <p>
