@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://static.wixstatic.com/media/0a3c61_ef62451ebbd94e37bd164c352014100b~mv2.gif" width="60px" />
+<img align="right" alt="GIF" src="https://static.wixstatic.com/media/0a3c61_ef62451ebbd94e37bd164c352014100b~mv2.gif" width="200px" />
 
 Currently working on [IBM](https://www.ibm.com/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and cloud-native <img src="https://github.com/yangchuansheng/yangchuansheng/blob/master/assets/gopher.gif" width="26px"> associated projects. Read [my blog](https://fuckcloudnative.io/) or follow my WeChat public account：
 
