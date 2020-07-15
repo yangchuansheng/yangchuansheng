@@ -1,4 +1,4 @@
-🐳 <img src="https://media.giphy.com/media/6AFldi5xJQYIo/giphy.gif" width="30"> Currently working on [IBM](https://www.ibm.com/) and associated projects. Read [my blog](https://fuckcloudnative.io/) or follow my WeChat public account：
+🐳 Currently working on [IBM](https://www.ibm.com/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and associated projects. Read [my blog](https://fuckcloudnative.io/) or follow my WeChat public account：
 
 <div align="center">
   <p>
