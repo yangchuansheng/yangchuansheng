@@ -13,6 +13,8 @@ or you can follow my Twitter and Github:
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/RyangYang1?style=social)](https://twitter.com/RyangYang1)
 [![GitHub Thaiane](https://img.shields.io/github/followers/yangchuansheng?label=follow&style=social)](https://github.com/yangchuansheng)
 
+![Ryan's github stats](https://github-readme-stats.vercel.app/api?username=yangchuansheng&show_icons=true&hide_border=true)
+
 <table><tr><td valign="top">
 
 ### My project
