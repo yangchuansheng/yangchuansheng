@@ -1,4 +1,10 @@
-<img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/yangchuansheng/yangchuansheng/assets/kubernetes-testing.gif" width="300px" />
+<div align="right">
+	<br>
+	<a href="https://raw.githubusercontent.com/yangchuansheng/yangchuansheng/master/assets/header.svg">
+		<img src="header.svg" width="800" height="400">
+	</a>
+	<br>
+</div>
 
 Currently working on [IBM](https://www.ibm.com/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and cloud-native <img src="https://cdn.jsdelivr.net/gh/yangchuansheng/yangchuansheng/assets/gopher.gif" width="26px"> associated projects. Read [my blog](https://fuckcloudnative.io/) or follow my WeChat public account：
 
