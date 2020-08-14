@@ -8,7 +8,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/yangchuansheng/yangchuansheng/assets/count.svg" />
 </p>
 
 Currently working on [IBM](https://www.ibm.com/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and cloud-native <img src="https://cdn.jsdelivr.net/gh/yangchuansheng/yangchuansheng/assets/gopher.gif" width="26px"> associated projects. Read [my blog](https://fuckcloudnative.io/) or follow my WeChat public account：
@@ -16,7 +16,7 @@ Currently working on [IBM](https://www.ibm.com/) <img src="https://github.com/Th
 <div align="center">
   <p>
     
-  <img src="https://hugo-picture.oss-cn-beijing.aliyuncs.com/2020-04-20-20200405205151.webp" width="300" alt="云原生实验室" />
+  <img src="https://cdn.jsdelivr.net/gh/yangchuansheng/imghosting/img/20200813101211.png" width="300" alt="云原生实验室" />
 
   </p>
 </div>
