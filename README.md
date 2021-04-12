@@ -11,7 +11,7 @@
   <img src="https://cdn.jsdelivr.net/gh/yangchuansheng/yangchuansheng/assets/count.svg" />
 </p>
 
-Currently working on [IBM](https://www.ibm.com/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and cloud-native <img src="https://cdn.jsdelivr.net/gh/yangchuansheng/yangchuansheng/assets/gopher.gif" width="26px"> associated projects. Read [my blog](https://fuckcloudnative.io/) or follow my WeChat public account：
+Currently working on [KubeSphere](https://kubesphere.com.cn/) at [QingCloud](https://www.qingcloud.com/) <img src="https://cdn.jsdelivr.net/gh/TheDudeThatCode/TheDudeThatCode/Assets/Developer.gif" width="30px"> and cloud-native <img src="https://cdn.jsdelivr.net/gh/yangchuansheng/yangchuansheng/assets/gopher.gif" width="26px"> associated projects. Read [my blog](https://fuckcloudnative.io/) or follow my WeChat public account：
 
 <div align="center">
   <p>
