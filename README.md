@@ -1,7 +1,7 @@
 <div align="center">
 	<br>
 	<a href="https://fuckcloudnative.io" target="_blank">
-		<img src="https://raw.githubusercontent.com/yangchuansheng/yangchuansheng/master/assets/header.svg" width="800" height="400">
+		<img src="https://cdn.jsdelivr.net/gh/yangchuansheng/yangchuansheng@master/assets/header.svg" width="800" height="400">
 	</a>
 	<br>
 </div>
