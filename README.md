@@ -16,7 +16,7 @@ Currently working on [KubeSphere](https://kubesphere.com.cn/) <img src="https://
 <div align="center">
   <p>
     
-  <img src="https://cdn.jsdelivr.net/gh/yangchuansheng/imghosting/img/20200813101211.png" width="300" alt="云原生实验室" />
+  <img src="https://cdn.jsdelivr.net/gh/yangchuansheng/imghosting/img/20200813101211.png" width="250" alt="云原生实验室" />
 
   </p>
 </div>
