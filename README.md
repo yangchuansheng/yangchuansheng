@@ -23,7 +23,7 @@ Currently working on [KubeSphere](https://kubesphere.com.cn/) <img src="https://
 
 or you can follow my Twitter and Github:
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/RyangYang1?style=social)](https://twitter.com/RyangYang1)
+[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/CarsonYangk8s?style=social)](https://twitter.com/CarsonYangk8s)
 [![GitHub Thaiane](https://img.shields.io/github/followers/yangchuansheng?label=follow&style=social)](https://github.com/yangchuansheng)
 
 ### Platform & Tools
@@ -52,6 +52,7 @@ or you can follow my Twitter and Github:
 [![](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)](https://github.com/features/actions)
 [![](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
 [![](https://img.shields.io/badge/-Ceph-EF5C55?style=flat-square&logo=ceph&logoColor=ffffff)](https://ceph.io/)
+[![](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=ffffff)](https://www.ansible.com/)
 [![](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown&logoColor=ffffff)](https://www.markdownguide.org/)
 
 ![Ryan's github stats](https://github-readme-stats.vercel.app/api?username=yangchuansheng&show_icons=true&hide_border=false)
