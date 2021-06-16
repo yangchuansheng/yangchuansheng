@@ -11,6 +11,8 @@
   <img src="https://cdn.jsdelivr.net/gh/yangchuansheng/yangchuansheng/assets/count.svg" />
 </p>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yangchuansheng&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Issues,Repositories" alt="yangchuansheng" /></a> </p>
+
 Currently working on [KubeSphere](https://kubesphere.com.cn/) <img src="https://cdn.jsdelivr.net/gh/TheDudeThatCode/TheDudeThatCode/Assets/Developer.gif" width="30px"> and cloud-native <img src="https://cdn.jsdelivr.net/gh/yangchuansheng/yangchuansheng/assets/gopher.gif" width="26px"> associated projects at [QingCloud](https://www.qingcloud.com/). Read [my blog](https://fuckcloudnative.io/) or follow my WeChat public account：
 
 <div align="center">
@@ -55,7 +57,8 @@ or you can follow my Twitter and Github:
 [![](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=ffffff)](https://www.ansible.com/)
 [![](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown&logoColor=ffffff)](https://www.markdownguide.org/)
 
-![Ryan's github stats](https://github-readme-stats.vercel.app/api?username=yangchuansheng&show_icons=true&hide_border=false)
+<span><img src="https://github-readme-stats.vercel.app/api?username=yangchuansheng&show_icons=true&hide_border=false" alt="yangchuansheng" width=49.8% /></span>
+<span><img src="https://github-readme-streak-stats.herokuapp.com/?user=yangchuansheng&" alt="yangchuansheng" width=49.8% /></span>
 
 <table><tr><td valign="top">
 
