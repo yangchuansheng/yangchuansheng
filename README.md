@@ -28,6 +28,8 @@ or you can follow my Twitter and Github:
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/CarsonYangk8s?style=social)](https://twitter.com/CarsonYangk8s)
 [![GitHub Thaiane](https://img.shields.io/github/followers/yangchuansheng?label=follow&style=social)](https://github.com/yangchuansheng)
 
+![Metrics](https://metrics.lecoq.io/yangchuansheng?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&pagespeed=1&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FShanghai)
+
 ### Platform & Tools
 
 [![](https://img.shields.io/badge/macOS-BigSur-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
