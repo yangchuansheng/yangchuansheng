@@ -1,19 +1,19 @@
 <div align="center">
 	<br>
-	<a href="https://fuckcloudnative.io" target="_blank">
+	<a href="https://icloudnative.io" target="_blank">
 		<img src="https://cdn.jsdelivr.net/gh/yangchuansheng/yangchuansheng@master/assets/header.svg" width="800" height="400">
 	</a>
 	<br>
 </div>
 
-<p align="center"> 
+<p align="center">
   Visitor count<br>
   <img src="https://cdn.jsdelivr.net/gh/yangchuansheng/yangchuansheng/assets/count.svg" />
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yangchuansheng&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Issues,Repositories" alt="yangchuansheng" /></a> </p>
 
-Currently working on [KubeSphere](https://kubesphere.com.cn/) <img src="https://cdn.jsdelivr.net/gh/TheDudeThatCode/TheDudeThatCode/Assets/Developer.gif" width="30px"> and cloud-native <img src="https://cdn.jsdelivr.net/gh/yangchuansheng/yangchuansheng/assets/gopher.gif" width="26px"> associated projects at [QingCloud](https://www.qingcloud.com/). Read [my blog](https://fuckcloudnative.io/) or follow my WeChat public account：
+Currently working on [KubeSphere](https://kubesphere.com.cn/) <img src="https://cdn.jsdelivr.net/gh/TheDudeThatCode/TheDudeThatCode/Assets/Developer.gif" width="30px"> and cloud-native <img src="https://cdn.jsdelivr.net/gh/yangchuansheng/yangchuansheng/assets/gopher.gif" width="26px"> associated projects at [QingCloud](https://www.qingcloud.com/). Read [my blog](https://icloudnative.io/) or follow my WeChat public account：
 
 <div align="center">
   <p>
@@ -28,14 +28,18 @@ or you can follow my Twitter and Github:
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/CarsonYangk8s?style=social)](https://twitter.com/CarsonYangk8s)
 [![GitHub Thaiane](https://img.shields.io/github/followers/yangchuansheng?label=follow&style=social)](https://github.com/yangchuansheng)
 
-![Metrics](https://metrics.lecoq.io/yangchuansheng?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&pagespeed=1&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FShanghai)
+[![Metrics](https://metrics.lecoq.io/yangchuansheng?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&pagespeed=1&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FShanghai)](https://icloudnative.io)
 
 ### Platform & Tools
 
-[![](https://img.shields.io/badge/macOS-BigSur-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
-[![](https://img.shields.io/badge/Browser-FireFox-4285f4?style=flat-square&logo=firefox&logoColor=ffffff)](https://www.mozilla.org/zh-CN/firefox/new/)
+[![](https://img.shields.io/badge/mac%20os-292e33?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
+[![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)](https://archlinux.org/)
+[![](https://img.shields.io/badge/FireFox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=ffffff)](https://www.mozilla.org/zh-CN/firefox/new/)
+[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+![OnePlus](https://img.shields.io/badge/OnePlus-%23F5010C.svg?style=for-the-badge&logo=oneplus&logoColor=white)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cloudnativer)
 
-[![](https://img.shields.io/badge/IDE-JetBrains-black?style=flat-square&logo=jetbrains&logoColor=ffffff)](https://www.jetbrains.com/)
+[![](https://img.shields.io/badge/IDE-Goland-black?style=flat-square&logo=goland&logoColor=ffffff)](https://www.jetbrains.com/)
 [![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Note-Notion-000000?style=flat-square&logo=notion&logoColor=ffffff)](https://notion.so)
 
@@ -75,20 +79,20 @@ More on [sealyun.com](https://sealyun.com/)
 
 ### My blog
 <!-- blog starts -->
-* [kubectl 创建 Pod 背后到底发生了什么？](https://fuckcloudnative.io/posts/what-happens-when-k8s/)
-* [Docker 镜像制作系列](https://fuckcloudnative.io/series/docker-%E9%95%9C%E5%83%8F%E5%88%B6%E4%BD%9C%E7%B3%BB%E5%88%97/)
-* [Linux Cgroup 入门系列](https://fuckcloudnative.io/series/linux-cgroup-%E5%85%A5%E9%97%A8%E7%B3%BB%E5%88%97/)
-* [Linux Capabilities 入门系列](https://fuckcloudnative.io/series/linux-capabilities-%E5%85%A5%E9%97%A8%E7%B3%BB%E5%88%97/)
+* [kubectl 创建 Pod 背后到底发生了什么？](https://icloudnative.io/posts/what-happens-when-k8s/)
+* [Docker 镜像制作系列](https://icloudnative.io/series/docker-%E9%95%9C%E5%83%8F%E5%88%B6%E4%BD%9C%E7%B3%BB%E5%88%97/)
+* [Linux Cgroup 入门系列](https://icloudnative.io/series/linux-cgroup-%E5%85%A5%E9%97%A8%E7%B3%BB%E5%88%97/)
+* [Linux Capabilities 入门系列](https://icloudnative.io/series/linux-capabilities-%E5%85%A5%E9%97%A8%E7%B3%BB%E5%88%97/)
 <!-- blog ends -->
-More on [fuckcloudnative.io](https://fuckcloudnative.io/)
+More on [icloudnative.io](https://icloudnative.io/)
 </td><td valign="top">
 
 ### My ebook
 <!-- ebook starts -->
 * [Envoy 中文指南 - 从入门到实践进阶手册](https://github.com/yangchuansheng/envoy-handbook)
-* [Prometheus 中文文档](https://fuckcloudnative.io/prometheus/)
+* [Prometheus 中文文档](https://icloudnative.io/prometheus/)
 * 数据中心的 BGP...即将上线
 <!-- ebook ends -->
 </td></tr></table>
 
-👉 [fuckcloudnative.io](https://fuckcloudnative.io/)
+👉 [icloudnative.io](https://icloudnative.io/)
