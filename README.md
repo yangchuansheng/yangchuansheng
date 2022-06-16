@@ -13,7 +13,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yangchuansheng&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Issues,Repositories" alt="yangchuansheng" /></a> </p>
 
-Currently working on [KubeSphere](https://kubesphere.com.cn/) <img src="https://cdn.jsdelivr.net/gh/TheDudeThatCode/TheDudeThatCode/Assets/Developer.gif" width="30px"> and cloud-native <img src="https://cdn.jsdelivr.net/gh/yangchuansheng/yangchuansheng/assets/gopher.gif" width="26px"> associated projects at [QingCloud](https://www.qingcloud.com/). Read [my blog](https://icloudnative.io/) or follow my WeChat public account：
+Currently working on [KubeSphere](https://kubesphere.com.cn/) <img src="https://cdn.jsdelivr.net/gh/yangchuansheng/yangchuansheng/assets/Developer-small.gif" width="30px"> and cloud-native <img src="https://cdn.jsdelivr.net/gh/yangchuansheng/yangchuansheng/assets/gopher-small.gif" width="26px"> associated projects at [QingCloud](https://www.qingcloud.com/). Read [my blog](https://icloudnative.io/) or follow my WeChat public account：
 
 <div align="center">
   <p>
