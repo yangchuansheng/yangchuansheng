@@ -77,7 +77,7 @@ or you can follow my Twitter and Github:
 * [Kubernetes 知识图谱](https://github.com/yangchuansheng/k8s-knowledge)
 * [Linux 和 MacOS 设备智能分流方案](https://github.com/yangchuansheng/love-gfw)
 <!-- project ends -->
-More on [sealyun.com](https://sealyun.com/)
+More on [sealos.io](https://sealos.io/)
 </td><td valign="top">
 
 ### My blog
