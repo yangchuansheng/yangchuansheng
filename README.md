@@ -1,28 +1,10 @@
-<div align="center">
-	<br>
-	<a href="https://icloudnative.io" target="_blank">
-		<img src="https://cdn.jsdelivr.net/gh/yangchuansheng/yangchuansheng@master/assets/header.svg" width="800" height="400">
-	</a>
-	<br>
-</div>
-
-<br>
-
 <p align="center">
    <img src="https://markdown-visitor-badge-carsonyang.vercel.app/api/count">
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yangchuansheng&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Issues,Repositories" alt="yangchuansheng" /></a> </p>
 
-Currently working on [Sealos](https://sealos.io/) <img src="https://cdn.jsdelivr.net/gh/yangchuansheng/yangchuansheng/assets/Developer-small.gif" width="30px"> and [Laf](https://laf.dev/) and cloud-native <img src="https://cdn.jsdelivr.net/gh/yangchuansheng/yangchuansheng/assets/gopher-small.gif" width="26px"> associated projects. Read [my blog](https://icloudnative.io/) or follow my WeChat public account：
-
-<div align="center">
-  <p>
-    
-  <img src="https://cdn.jsdelivr.net/gh/yangchuansheng/imghosting/img/20200813101211.png" width="250" alt="云原生实验室" />
-
-  </p>
-</div>
+Currently working on [Sealos](https://sealos.io/) <img src="https://cdn.jsdelivr.net/gh/yangchuansheng/yangchuansheng/assets/Developer-small.gif" width="30px"> and [Laf](https://laf.dev/) and cloud-native <img src="https://cdn.jsdelivr.net/gh/yangchuansheng/yangchuansheng/assets/gopher-small.gif" width="26px"> associated projects. Read [my blog](https://icloudnative.io/)
 
 or you can follow my Twitter and Github:
 
@@ -68,34 +50,3 @@ or you can follow my Twitter and Github:
 
 <span><img src="https://github-readme-stats.vercel.app/api?username=yangchuansheng&show_icons=true&theme=react&hide_border=false" alt="yangchuansheng" width=49.8% /></span>
 <span><img src="https://github-readme-streak-stats.herokuapp.com/?user=yangchuansheng&theme=react" alt="yangchuansheng" width=49.8% /></span>
-
-<table><tr><td valign="top">
-
-### My project
-<!-- project starts -->
-* [一条命令部署 k8s 高可用集群](https://github.com/fanux/sealos)
-* [Kubernetes 知识图谱](https://github.com/yangchuansheng/k8s-knowledge)
-* [Linux 和 MacOS 设备智能分流方案](https://github.com/yangchuansheng/love-gfw)
-<!-- project ends -->
-More on [sealos.io](https://sealos.io/)
-</td><td valign="top">
-
-### My blog
-<!-- blog starts -->
-* [kubectl 创建 Pod 背后到底发生了什么？](https://icloudnative.io/posts/what-happens-when-k8s/)
-* [Docker 镜像制作系列](https://icloudnative.io/series/docker-%E9%95%9C%E5%83%8F%E5%88%B6%E4%BD%9C%E7%B3%BB%E5%88%97/)
-* [Linux Cgroup 入门系列](https://icloudnative.io/series/linux-cgroup-%E5%85%A5%E9%97%A8%E7%B3%BB%E5%88%97/)
-* [Linux Capabilities 入门系列](https://icloudnative.io/series/linux-capabilities-%E5%85%A5%E9%97%A8%E7%B3%BB%E5%88%97/)
-<!-- blog ends -->
-More on [icloudnative.io](https://icloudnative.io/)
-</td><td valign="top">
-
-### My ebook
-<!-- ebook starts -->
-* [Envoy 中文指南 - 从入门到实践进阶手册](https://github.com/yangchuansheng/envoy-handbook)
-* [Prometheus 中文文档](https://icloudnative.io/prometheus/)
-* 数据中心的 BGP...即将上线
-<!-- ebook ends -->
-</td></tr></table>
-
-👉 [icloudnative.io](https://icloudnative.io/)
