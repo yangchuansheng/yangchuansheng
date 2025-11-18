@@ -4,7 +4,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yangchuansheng&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Issues,Repositories" alt="yangchuansheng" /></a> </p>
 
-Currently working on [Sealos](https://sealos.io/) <img src="https://cdn.jsdelivr.net/gh/yangchuansheng/yangchuansheng/assets/Developer-small.gif" width="30px"> and [Laf](https://laf.dev/) and cloud-native <img src="https://cdn.jsdelivr.net/gh/yangchuansheng/yangchuansheng/assets/gopher-small.gif" width="26px"> associated projects. Read [my blog](https://icloudnative.io/)
+Currently working on [Sealos](https://sealos.io/) <img src="https://cdn.jsdelivr.net/gh/yangchuansheng/yangchuansheng/assets/Developer-small.gif" width="30px"> and cloud-native <img src="https://cdn.jsdelivr.net/gh/yangchuansheng/yangchuansheng/assets/gopher-small.gif" width="26px"> associated projects. Read [my blog](https://icloudnative.io/)
 
 or you can follow my Twitter and Github:
 
